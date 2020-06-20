@@ -1,0 +1,27 @@
+(Rs. mln),,,,,,
+Category,Region,No. of Industries,Total Project Cost,Total Fixed Cost,Foreign Investment,Employment
+Agriculture,Central,14,5,4,5,15
+Agriculture,Eastern,1,15,13.6,15,33
+Agriculture,Total,15,20,17.6,20,48
+Energy based,Central,4,2100,2000,108,250
+Energy based,Total,4,2100,2000,108,250
+Manufacturing,Central,25,11.4,7.4,11.4,78
+Manufacturing,Eastern,3,75,60,33.76,90
+Manufacturing,Western,3,7,5.9,7,20
+Manufacturing,Total,31,93.4,73.3,52.16,188
+Mineral,Central,1,40,32,40,70
+Mineral,Eastern,1,40,33.54,40,70
+Mineral,Far- western,1,17.2,9.2,3.2,36
+Mineral,Mid- western,1,10,7.8,10,110
+Mineral,Western,3,40,29,40,60
+Mineral,Total,7,147.2,111.54,133.2,346
+Service,Central,103,7,4.17,4.1,57
+Service,Eastern,1,12.5,11.6,12.5,30
+Service,Western,2,2,1.52,2,17
+Service,Total,106,21.5,17.49,18.6,104
+Tourism,Central,51,10,8.9,2,23
+Tourism,Eastern,1,15,13,15,25
+Tourism,Mid- western,1,5.6,5.31,2.8,9
+Tourism,Western,11,10.8,9.5,10.8,25
+Tourism,Total,64,41.4,36.71,30.6,82
+Grand total ,Total,227,2423.5,2256.64,362.56,1018

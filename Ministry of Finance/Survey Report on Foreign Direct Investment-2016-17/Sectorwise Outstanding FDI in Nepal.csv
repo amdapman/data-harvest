@@ -1,0 +1,12 @@
+Agriculture,Year,Paid-up Capital,Reserves,Loan,Total
+Agriculture,2015,395.2,-,-,395.2
+Agriculture,2016,395.2,-,-,395.2
+Agriculture,2017,164.9,-,-,164.9
+Industry,Year,Paid-up Capital,Reserves,Loan,Total
+Industry,2015,15697.8,12979.9,1554.3,30232.1
+Industry,2016,18989.5,19902.8,1725.3,40617.6
+Industry,2017,24094.7,23363.9,5902.4,53361
+Service,Year,Paid-up Capital,Reserves,Loan, Total
+Service,2015,17674.3,55371.6,2498.7,75544.6
+Service,2016,22190.5,71048,3427,96665.5
+Service,2017,33863.9,75293.7,5927.5,115085.1

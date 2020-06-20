@@ -1,0 +1,6 @@
+Group,No. of Firms,No. of Firms,No. of Firms,Capital (Rs. in millions),Capital (Rs. in millions),Capital (Rs. in millions)
+ -,Population,Sample,Proportion (%),Population,Sample,Proportion (%)
+Large,35,35,100,135321.4,135321.4,100
+Medium,48,28,58.3,11678.2,10272.3,88
+Small,244,80,32.8,8871.9,6826.5,76.9
+Total,327,143,-,155871.5,152420.3,-

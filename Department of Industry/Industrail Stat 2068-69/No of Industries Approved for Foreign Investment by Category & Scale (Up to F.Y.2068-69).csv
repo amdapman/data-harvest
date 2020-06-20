@@ -1,0 +1,31 @@
+(Rs. mln),,,,,,
+Category,Scale,No. of Industry,Total Project Cost,Total Fixed Cost,Foreign Investment,Total No. of Employment
+Agriculture,Large,1,560,159.6,246.88,414
+Agriculture,Medium,9,571.33,488.86,248.12,1262
+Agriculture,Small,65,717.29,598.15,560.5,2318
+Agriculture,Total,75,1848.62,1246.61,1055.49,3994
+Construction,Large,6,1917.04,1831.33,1598.58,447
+Construction,Medium,13,934.02,517.61,524.94,928
+Construction,Small,23,754.29,334.16,639.29,1641
+Construction,Total,42,3605.34,2683.1,2762.81,3016
+Energy Based,Large,37,45020.4,44639.23,17216.92,7798
+Energy Based,Medium,8,619.39,518.14,203.6,511
+Energy Based,Small,6,128.94,56.15,95.75,228
+Energy Based,Total,51,45768.74,45213.52,17516.27,8537
+Manufacturing,Large,81,38549.89,31510.39,17649.76,16716
+Manufacturing,Medium,134,10938.36,7027.44,4203.06,20892
+Manufacturing,Small,528,8663.61,4834.95,4690.74,42572
+Manufacturing,Total,743,58151.87,43372.78,26543.57,80180
+Mineral,Large,4,4613.8,3750.9,2415.7,1763
+Mineral,Medium,6,253,220.54,221.94,971
+Mineral,Small,33,467.52,382.9,424.3,3370
+Mineral,Total,43,5334.32,4354.34,3061.94,6104
+Service,Large,27,19047.72,16507.07,8610.41,9094
+Service,Medium,58,3524.66,2689.46,2146.52,4957
+Service,Small,671,5497.82,3844.74,4215.16,21891
+Service,Total,756,28070.2,23041.28,14972.1,35942
+Tourism,Large,39,14859.3,14341.15,4430.93,7962
+Tourism,Medium,34,2046.64,1913.27,1432.82,2942
+Tourism,Small,552,4415.24,3691.69,3374.03,15805
+Tourism,Total,625,21321.17,19946.12,9237.79,26709
+Total,,2335,164100.26,139857.74,75149.97,164482

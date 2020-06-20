@@ -1,0 +1,26 @@
+1,Building,--
+a,Cementmortar,5%
+b,Mudmortar,7%
+c,Temporary(woodenorthatch),50%
+2,Vehicles,--
+a,Aeroplane & helicopter,25%
+b,Ship & boat,20%
+c,Bus & truck & tractor,20%
+d,Car & jeep & van & motorbike,15%
+e,Bicycle & rickshaw,20%
+f,Animal-drivencartsandboats,25%
+g,Othervehicles,15%
+3,Furniture,--
+a,Metal,10%
+b,Wooden,15%
+4,Machinery & EquipmentandTools:,--
+a,Relating to building & road & bridge & mines & tunnel construction:,--
+i,Crane & bulldozer & dozer & grader & roller & dumptruck and other similar machinery and equipment,25%
+ii,Other light machine equipment,15%
+b,Machine and equipment relating to electricity and telephone,15%
+c,Refrigerator & air-conditioner & air-coolerandothersimilartypesofmachineryandequipment,15%
+d,Lift & elevator and escalator,15%
+e,Computer and related equipment,20%
+f,Machinery and equipment relating to production and screening of motion pictures,20%
+g,Frames used for producing bricks and tiles,15%
+h,Machinery for rubber and plastic goods,15%

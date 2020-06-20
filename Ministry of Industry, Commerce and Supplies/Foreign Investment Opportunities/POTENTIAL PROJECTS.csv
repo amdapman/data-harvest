@@ -1,0 +1,123 @@
+A,Agriculture  and  Agro-based  Industry, --
+1,"Cultivation  and  processing  of  vegetables,  flowers,  fruits
+and  ornamental  plants","Export  market:  Asia,  Middle
+East,  Arab  countries  and  Europe"
+2,Production  of  vegetables  and  flowering  seeds,Export  and  domestic  market
+3,"Cultivation  and  processing  of  herbs,  coffee  and  tea",Exports  and  domestic  markets
+4,Development  of  tea  industry,Export  and  domestic  market
+5,Cultivation  of  sugarcane  and  processing  of  sugar,Domestic  market
+6,Tissue  culture,Export  market
+7,"Integrated  livestock,  dairy  and  milk  powder",Export  and  domestic  market
+8,Baby  food  and  nutritious  food,Domestic  market
+9,Animal  feeds  and  aquaculture,Domestic  market
+10,Oil seed processing and oil extraction,Domestic  market
+ --, --, --
+B.  Manufacturing  Industry, --, --
+1,Light engineering industries,Export  and  domestic  market
+2,Electric arc furnace,Domestic  market
+3,Leather  products,Export  and  domestic  market
+4,Pharmaceutical  products,Domestic  market
+5,Ceramics,Domestic  market
+6,"Writing,  printing  and  newsprint  paper",Domestic  market
+7,Organic fertilizer,Domestic  market
+8,Saline  and  dextrose,Domestic  market
+9,Surgical  cotton  and  bandaging  industry,Domestic  market
+10,Chemical fertilizers,Domestic  market
+11,"Pesticides,  insecticides",Domestic  market
+12,Industrial  chemicals,Domestic  market
+13,"Glass  bottles,  containers",Domestic  market
+14,Domestic  electrical  appliances,Domestic  market
+15,Electric  power  capacitors  and  condensers,Domestic  market
+16,Irrigation  pumps,Domestic  market
+17,Bicycles,Domestic  market
+18,Bleaching  powder,Domestic  market
+19,Agriculture lime,Domestic  market
+20,Chalk,Domestic  market
+21,Yeast,Domestic  market
+22,Malt,Export  and  domestic  market
+23,Dry  cell  battery,Export  and  domestic  market
+24,Assembly of electronic components,Export  market
+25,"Starch,  glucose  and  fructose  syrup",Domestic  market
+26,Cane  furniture  industry,Export  market
+27,Specialty  paper,Domestic  market
+28,Video cassette,Domestic  market
+29,Cold rolling mill,Domestic  market
+30,Aluminium rolling mill,Domestic  market
+31,Toilet  and  laundry  soap,Export  and  domestic  market
+32,Caustic  soda,Domestic  market
+33,Mineral  water  bottling  plant,Export  market
+34,Sugar  industry,Domestic  market
+35,Essential oils and resinoids,Export  and  domestic  market
+36,Hand  tools,Domestic  market
+37,Professional  occupational  tools  and  instruments,Domestic  market
+38,Medical  instrument  and  tools,Domestic  market
+39,Fuel-conserving  instruments,Domestic  market
+40,Pollution  preventing  accessories,Domestic  market
+ --, --, --
+C,Textile and Apparel Industry, --
+1,Integrated  textile  mill,Domestic  market
+2,Textile  processing-dyeing  and  finishing,Domestic  market
+3,Woollen  knitwear,Export  and  domestic  market
+4,Acrylic and polyester fabrics,Domestic  market
+5,Dhoti  and  saree,Domestic  market
+6,Terry  towels,Export  market
+7,Bed  linen,Export  and  domestic  market
+8,Readymade  garments,Export  market
+9,Spinning  mill,Export  and  domestic  market
+10,Grey  cloth,Export  and  domestic  market
+11,Leather  shoes,Export  and  domestic  market
+12,Canvas  shoes,Export  and  domestic  market
+13,Sericulture  and  silk  production,Export  market
+14,Hand-knitted  sweaters,Export  and  domestic  market
+15,Other  footwear,Export  and  domestic  market
+16,Alcohol and cigarettes, --
+ --, --, --
+D,  Construction  Industry, --
+1,Building  hardware,Domestic  market
+2,Stone  industry  cutting  and  polishing,Export  and  domestic  market
+3,Stone  aggregates,Export  and  domestic  market
+4,Bricks (dry press),Domestic  market
+5,Plywood,Domestic  market
+6,Cement  (large)  plant,Domestic  market
+7,Cement  (mini)  plant,Domestic  market
+8,Floor and wall tiles,Export  and  domestic  markets
+10,Housing  and  apartment  buildings,Domestic  market
+11,"Varnish,  paints  and  allied  products",Domestic  market
+12,PVC  pipes  and  allied  products,Domestic  market
+13,Aluminium  extrusions,Domestic  market
+14,PVC  doors  and  windows,Domestic  market
+15,"Slate,  granite  and  cement",Domestic  market
+E,.  Tourism  Industry, --
+1,"     Resorts, hotels and motels", --
+2,     Cable  car  complexes, --
+3,  Rafting  equipment, --
+4,  Sightseeing  and  mountaineering, --
+5,"  Travel  agencies  and  tour  operation,  pony  trekking", --
+6,  Hot  air  ballooning  and  paragliding, --
+7,"  Horse riding, water rafting and trekking", --
+ --, --, --
+F,  Service  Industry, --
+1,Air freight forwarding services, --
+2,Sea  freight  forwarding  services, --
+3,  Nursing homes, --
+4,   Carpet  washing, --
+5, Air services, --
+6, Computer  software  development, --
+7,    Data  entry  services, --
+8,   Photo  scanning  and  offset  printing, --
+ --, --, --
+G,  Mineral  Resources  and  Mineral-based  Industry, --
+1,Limestone  exploration  and  cement  production, --
+2,Petroleum  exploration  and  exploitation, --
+3,Natural  gas  exploration  and  exploitation, --
+4,"   Processing  of  gravel,  boulder,  marble,  stone", --
+5,Exploration  and  exploitation  of  quartz, --
+6,"Production of limestone, magnetite, talc, marble, dolomite, quartzite, coal, lignite, salt, red
+clay,  tourmaline,  kyanite,  quartz,  zinc,  lead,  etc", --
+7,"Glass  production  from  silica  sand,  quartz  and  quartzite", --
+ --, --, --
+H,Energy  Industry, --
+1,Hydroelectric  plants, --
+2, Solar  energy, --
+3, Biogas, --
+4,    Wind  energy, --

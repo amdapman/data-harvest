@@ -1,0 +1,14 @@
+category, ---,Nepal,Nepal,India,India,Bangladesh,Bangladesh
+ ---, ---,Days,Cost (US$),Days,Cost (US$),Days,Cost (US$)
+Exports,"Document preparation, technical 
+control, customs clearance",18,$589 ,10,$370 ,17,$410 
+Exports,Ports and terminal handling,4,$275 ,3,$175 ,5,$420 
+Exports,Inland transport and handling,19,$900 ,4,$300 ,3,$140 
+Exports,Total,"41
+$1,764", ---,17,$945 ,25,$970 
+Imports,"Document preparation, technical 
+control, Customs clearance",19,$600 ,12,$510 ,23,$590 
+Imports,Ports and terminal handling,4,$275 ,6,$200 ,4,$585 
+Imports,Inland transport and handling,12,$980 ,3,$250 ,2,$200 
+Imports,Total,"35
+$1,825", ---,20,$960 ,29,"$1,375 "

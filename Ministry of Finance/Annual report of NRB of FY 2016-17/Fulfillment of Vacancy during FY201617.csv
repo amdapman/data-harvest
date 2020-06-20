@@ -1,0 +1,16 @@
+Level,Service Type,External Competition,Performance Appraisal,Internal Competition
+Officer Special,Administration,-,4,-
+Officer First,Administration,-,6,5
+Officer First,Technical,-,1,-
+Officer Second,Administration,-,15,12
+Officer Second,Technical,-,3,-
+Officer Third,Administration,23,5,3
+Officer Third,Technical,-,-,-
+Assistant First,Administration,-,4,8
+Assistant First,Technical,-,4,-
+Assistant Second,Administration,-,6,3
+Assistant Second,Technical,-,2,-
+Assistant Third,Administration,-,-,-
+Office Assist. 4th,Administration,-,-,-
+Contract Driver,Technical,6,-,-
+Total, -,29,50,31
